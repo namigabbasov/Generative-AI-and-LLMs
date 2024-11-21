@@ -8,52 +8,54 @@ Welcome to **Generative AI and Large Language Models (LLMs) Workshop**! This rep
 
 ### 1. **Introduction to Generative AI and LLMs**
 - Overview of Generative AI and its capabilities.
-- Understanding how Large Language Models (e.g., GPT, BERT) function.
-- Real-world applications across industries.
+- Genrative AI vs discriminatory AI
+- Transformer Architecture 
+- Understanding how Transformer-based LLMs function.
 
 ### 2. **Fine-Tuning and Customizing LLMs**
 - Difference between pre-training and fine-tuning.
 - Steps to fine-tune LLMs for domain-specific tasks.
-- Tools and frameworks: Hugging Face Transformers, OpenAI API.
+- Hugging Face Transformers and LLama
 
-### 3. **Prompt Engineering and Optimization**
-- Crafting effective prompts for LLMs.
-- Techniques to guide and control LLM output.
-- Advanced concepts: prompt chaining, dynamic prompts.
-
-### 4. **Ethical Considerations in Generative AI**
-- Addressing biases in LLMs.
-- Privacy and data security concerns.
-- Social implications of generative AI, including misinformation and job displacement.
+### 3. **Text Classification with LLMs**
+- Text classification with LLMs.
+- Comparison of ML-based and transformer-based methods.
+- Practical applications: classifying costomer complaints with BERT, RoBERTa, and T5.
+  
+### 4. **Sentiment Analysis with LLMs**
+- Sentiment analysis techniques with LLMs.
+- Comparison of lexicon-based, ML-based, and transformer-based methods.
+- Practical applications: social media analysis with Twitter-roBERTa-base-sentiment-latest.
 
 ### 5. **Applications of LLMs in Text Generation**
 - Using LLMs for generating stories, articles, and creative content.
 - Automating business communications like emails and reports.
 - Tips for leveraging LLMs in content workflows.
 
-### 6. **Sentiment Analysis and Text Classification with LLMs**
-- Sentiment analysis techniques with LLMs.
-- Comparison of lexicon-based, ML-based, and transformer-based methods.
-- Practical applications: customer feedback, social media analysis.
-
-### 7. **Conversational AI: Building AI Assistants**
+### 6. **Conversational AI: Building AI Assistants**
 - Creating intelligent chatbots with LLMs.
 - Context-aware conversational agents for better user experiences.
 - Tools: OpenAI API, Rasa, and other frameworks.
 
-### 8. **Code Generation and Debugging with LLMs**
-- Automating software development tasks with LLMs (e.g., GitHub Copilot).
-- Streamlining code reviews and debugging.
-- Challenges in AI-generated code and how to address them.
-
-### 9. **Multimodal Generative AI**
-- Models like DALL·E and CLIP for multimodal generation.
+### 7. **Multimodal Generative AI**
+- DALLE and CLIP for multimodal generation.
 - Combining text, image, and video generation.
-- Use cases in marketing, design, and entertainment.
+- Use cases with Intel/llava-gemma-2b
+
+### 8. **Prompt Engineering and Optimization**
+- Crafting effective prompts for LLMs.
+- Techniques to guide and control LLM output.
+- Advanced concepts: prompt chaining, dynamic prompts.
+
+### 9. **Ethical Considerations in Generative AI**
+- Addressing biases in LLMs.
+- Privacy and data security concerns.
+- Social implications of generative AI.
+- How generative AI will shape the future of work and creativity.
 
 ### 10. **Future Trends in Generative AI**
-- Emerging LLM architectures (e.g., GPT-4, PaLM, BLOOM).
+- Emerging LLM architectures 
 - Open-source innovations in generative AI.
-- How generative AI will shape the future of work and creativity.
+- Resurgence of RNNs: Are they all we need?
 
 ---
